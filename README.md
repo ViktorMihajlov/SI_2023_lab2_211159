@@ -12,7 +12,7 @@ Viktor Mihajlov 211159
 3. Ciklomatskata kompleksnost e 11 zatoa sto ima 10 nodes koi se razgranuvaat, odnosno deka ima 41 rebra i 32 nodes. 41-32 = 9+2 = 11
 
 
-5.  Multiple Condition kriteriumot pokazuva, dokolku T  oznacuva true, F  oznacuva false i X  oznacuva bilo sto, site kombinacii i slucai se:
+5..  Multiple Condition kriteriumot pokazuva, dokolku T  oznacuva true, F  oznacuva false i X  oznacuva bilo sto, site kombinacii i slucai se:
 
 T X X
 
